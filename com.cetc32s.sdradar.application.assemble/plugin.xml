@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+            class="com.cetc32s.sdradar.application.assemble.editor.ApplicationAssembleView"
+            default="true"
+            extensions="ral"
+            id="com.cetc32s.sdradar.application.assemble.editor"
+            name="Application Assemble View">
+      </editor>
+   </extension>
+
+</plugin>
