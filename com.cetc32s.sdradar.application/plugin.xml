@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.newWizards">
+      <category
+            id="com.cetc32s.sdradar.assemble.category.sdradar"
+            name="SDRadar Development">
+      </category>
+      <wizard
+            canFinishEarly="false"
+            category="com.cetc32s.sdradar.assemble.category.sdradar/"
+            class="com.cetc32s.sdradar.application.wizard.ApplicationWizard"
+            finalPerspective="org.eclipse.ui.resourcePerspective"
+            hasPages="true"           
+            id="com.cetc32s.sdradar.assemble.wizard.application"
+            name="SDRadar Application"
+            project="true">
+            <description> 
+              	Create a SDRadar Application Project. 
+          	</description> 
+      </wizard>
+   </extension>
+
+</plugin>
