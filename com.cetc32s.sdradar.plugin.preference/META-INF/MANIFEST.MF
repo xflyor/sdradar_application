@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Preference
+Bundle-SymbolicName: com.cetc32s.sdradar.plugin.preference
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.cetc32s.sdradar.plugin.preference.Activator
+Bundle-Vendor: CETC32S
+Require-Bundle: org.eclipse.ui,
+  org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: com.cetc32s.sdradar.plugin.preference
+Bundle-ActivationPolicy: lazy
