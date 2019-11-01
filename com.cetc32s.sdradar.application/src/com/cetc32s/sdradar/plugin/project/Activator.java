@@ -1,4 +1,4 @@
-package com.cetc32s.sdradar.application;
+package com.cetc32s.sdradar.plugin.project;
 
 import org.eclipse.ui.plugin.AbstractUIPlugin;
 import org.osgi.framework.BundleContext;

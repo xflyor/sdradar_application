@@ -1,4 +1,4 @@
-package com.cetc32s.sdradar.application.wizard;
+package com.cetc32s.sdradar.plugin.project.wizard;
 
 import org.eclipse.core.runtime.Platform;
 import org.eclipse.jface.wizard.WizardPage;

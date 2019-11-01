@@ -10,7 +10,7 @@
       <wizard
             canFinishEarly="false"
             category="com.cetc32s.sdradar.assemble.category.sdradar/"
-            class="com.cetc32s.sdradar.application.wizard.ApplicationWizard"
+            class="com.cetc32s.sdradar.plugin.project.wizard.ApplicationWizard"
             finalPerspective="org.eclipse.ui.resourcePerspective"
             hasPages="true"           
             id="com.cetc32s.sdradar.assemble.wizard.application"

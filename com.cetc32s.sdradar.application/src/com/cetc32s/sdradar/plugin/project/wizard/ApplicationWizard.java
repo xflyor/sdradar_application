@@ -1,4 +1,4 @@
-package com.cetc32s.sdradar.application.wizard;
+package com.cetc32s.sdradar.plugin.project.wizard;
 
 import java.io.File;
 import java.io.IOException;

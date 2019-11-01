@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Assemble
-Bundle-SymbolicName: com.cetc32s.sdradar.application;singleton:=true
+Bundle-SymbolicName: com.cetc32s.sdradar.plugin.project;singleton:=true
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: com.cetc32s.sdradar.application.Activator
+Bundle-Activator: com.cetc32s.sdradar.plugin.project.Activator
 Bundle-Vendor: CETC32S
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
