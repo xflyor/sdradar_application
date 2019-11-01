@@ -1,9 +1,9 @@
-package com.cetc32s.sdradar.application.assemble.connection;
+package com.cetc32s.sdradar.plugin.assemble.model.connection;
 
 import java.io.Serializable;
 
 public class ConnectionModel implements Serializable{
-	public static final String Name = "SDRADAR_CONNECT_MODEL";
+	public static final String Name = "SDRADAR_CONNECT_MODEL_1111111111111111111111";
 	
 	private String source;
 	private String target;

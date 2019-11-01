@@ -1,4 +1,4 @@
-package com.cetc32s.sdradar.application.assemble.editor;
+package com.cetc32s.sdradar.plugin.assemble.editor;
 
 import org.eclipse.core.runtime.IProgressMonitor;
 import org.eclipse.gef.DefaultEditDomain;
@@ -16,8 +16,8 @@ import org.eclipse.jface.resource.ImageDescriptor;
 import org.eclipse.ui.IEditorPart;
 import org.eclipse.ui.plugin.AbstractUIPlugin;
 
-import com.cetc32s.sdradar.application.assemble.Activator;
-import com.cetc32s.sdradar.application.assemble.model.device.DeviceModel;
+import com.cetc32s.sdradar.plugin.assemble.Activator;
+import com.cetc32s.sdradar.plugin.assemble.model.device.DeviceModel;
 
 public class ApplicationAssembleView extends GraphicalEditorWithPalette implements IEditorPart {
 	

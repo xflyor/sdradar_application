@@ -1,4 +1,4 @@
-package com.cetc32s.sdradar.application.assemble.basic;
+package com.cetc32s.sdradar.plugin.assemble.model.basic;
 
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;

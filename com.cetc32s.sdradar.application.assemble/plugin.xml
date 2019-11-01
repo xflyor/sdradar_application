@@ -4,7 +4,7 @@
    <extension
          point="org.eclipse.ui.editors">
       <editor
-            class="com.cetc32s.sdradar.application.assemble.editor.ApplicationAssembleView"
+            class="com.cetc32s.sdradar.plugin.assemble.editor.ApplicationAssembleView"
             default="true"
             extensions="ral"
             id="com.cetc32s.sdradar.application.assemble.editor"
